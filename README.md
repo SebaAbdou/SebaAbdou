@@ -45,7 +45,7 @@
 </div>
 </details>
 
-<details>
+<details open>
 <summary><h3>☁️ Cloud & DevOps</h3></summary>
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
@@ -64,7 +64,7 @@
 </div>
 </details>
 
-<details>
+<details open>
 <summary><h3>🔒 Cybersecurity</h3></summary>
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
@@ -90,7 +90,7 @@
 </div>
 </details>
 
-<details>
+<details open>
 <summary><h3>💻 Development</h3></summary>
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -116,7 +116,7 @@
 </div>
 </details>
 
-<details>
+<details open>
 <summary><h3>📊 Project Management</h3></summary>
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
