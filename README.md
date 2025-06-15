@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Abdou</h1>
 <h3 align="center">Passionate Dev & Cybersecurity Enthusiast | Cloud Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwaheb-seba&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwaheb-seba" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SebaAbdou&label=Profile%20views&color=0e75b6&style=flat" alt="SebaAbdou" /> </p>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/abdelwaheb-seba/" target="blank">
