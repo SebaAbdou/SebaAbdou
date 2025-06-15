@@ -44,7 +44,7 @@ def daily_routine():
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelwaheb-seba/abdelwaheb-seba/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelwaheb-seba/abdelwaheb-seba/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/abdelwaheb-seba/abdelwaheb-seba/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebaAbdou/SebaAbdou/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SebaAbdou/SebaAbdou/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SebaAbdou/SebaAbdou/output/github-snake.svg" />
 </picture>
