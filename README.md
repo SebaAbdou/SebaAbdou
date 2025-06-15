@@ -67,12 +67,26 @@
 <details>
 <summary><h3>🔒 Cybersecurity</h3></summary>
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burp&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Nessus-7DB9B6?style=for-the-badge&logo=tenable&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Wazuh-024593?style=for-the-badge&logo=wazuh&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OWASP_ZAP-F9A03C?style=for-the-badge&logo=owasp&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Snort-DD0031?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenVAS-81B29A?style=for-the-badge&logo=openvas&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Suricata-0078D4?style=for-the-badge&logo=suricata&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hashcat-5468FF?style=for-the-badge&logo=hashcat&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cloudflare-F05032?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Shodan-E50914?style=for-the-badge&logo=shodan&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Aircrack--ng-00599C?style=for-the-badge&logo=aircrack-ng&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/John_the_Ripper-F37626?style=for-the-badge&logo=john&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hydra-4B275F?style=for-the-badge&logo=hydra&logoColor=white" /></a>
 </div>
 </details>
 
