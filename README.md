@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NhYmhtanV4dTJpbW5ybzJuMW92ZWFiZnQycWlkbXNobGk4aGphNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="480"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFp016-eosIuA/profile-displaybackgroundimage-shrink_350_1400/B4DZZJlSepGgAY-/0/1744991234493?e=1755734400&v=beta&t=_MfShgeUbB4-23NvHSmwiSIUmsLO7dppAwfmkj_HZ90" alt="Coder GIF" width="480"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdou</h1>
