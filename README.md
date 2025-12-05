@@ -25,8 +25,6 @@ I am a technical enthusiast with a strong passion for **Cybersecurity** and **De
 
 ## 🛠 Technical Universe
 
-## 🛠 Technical Universe
-
 ### 🔒 Cybersecurity
 <div align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -47,9 +45,7 @@ I am a technical enthusiast with a strong passion for **Cybersecurity** and **De
   <img src="https://img.shields.io/badge/Hashcat-5468FF?style=for-the-badge&logo=hashcat&logoColor=white" />
   <img src="https://img.shields.io/badge/John_the_Ripper-F37626?style=for-the-badge&logo=john&logoColor=white" />
   <img src="https://img.shields.io/badge/Hydra-4B275F?style=for-the-badge&logo=hydra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aircrack_ng-00599C?style=for-the-badge&logo=aircrack-ng&logoColor=white" />
   <img src="https://img.shields.io/badge/Shodan-E50914?style=for-the-badge&logo=shodan&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </div>
 
 ### ☁️ Cloud, DevOps & Infrastructure
@@ -64,8 +60,6 @@ I am a technical enthusiast with a strong passion for **Cybersecurity** and **De
   <br>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chef-3F53A3?style=for-the-badge&logo=chef&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -92,14 +86,11 @@ I am a technical enthusiast with a strong passion for **Cybersecurity** and **De
   <br>
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=gns3&logoColor=white" />
-  <img src="https://img.shields.io/badge/NS--3-1A1A1A?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ### 💻 Development & Databases
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
