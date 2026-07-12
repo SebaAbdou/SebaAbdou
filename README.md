@@ -135,9 +135,19 @@ Framework Bash/Python d'administration système multi-distributions (RHEL/Debian
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SebaAbdou&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Contributions](https://ghchart.rshah.org/0e75b6/SebaAbdou)
 
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebaAbdou&layout=compact&hide_border=true&theme=default)
+</div>
+
+---
+
+## 📅 Rythme d'alternance
+
+Calendrier prévisionnel de mon rythme entreprise/formation pour l'année 2026-2027 (560h de formation au total).
+
+<div align="center">
+
+![Calendrier alternance](assets/Devops 2026-2027.png)
 
 </div>
 
@@ -154,7 +164,10 @@ Framework Bash/Python d'administration système multi-distributions (RHEL/Debian
 
 <div align="center">
 
-📫 **Discutons de votre besoin en alternance** : [abdelwaheb.seba@gmail.com](mailto:abdelwaheb.seba@gmail.com)
+📫 **Discutons de votre besoin en alternance**
+
+[![Email](https://img.shields.io/badge/Envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelwaheb.seba@gmail.com)
+[![Message LinkedIn](https://img.shields.io/badge/Message_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwaheb-seba-alternance-cyber-cloud-reseau-systeme-paris-idf/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SebaAbdou&label=Profile+Views&color=0e75b6&style=flat)
 
