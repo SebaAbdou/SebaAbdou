@@ -147,7 +147,7 @@ Calendrier prévisionnel de mon rythme entreprise/formation pour l'année 2026-2
 
 <div align="center">
 
-![Calendrier alternance](assets/Devops 2026-2027.png)
+![Calendrier alternance](assets/calendrier-alternance.png)
 
 </div>
 
