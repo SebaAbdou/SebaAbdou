@@ -143,7 +143,7 @@ Framework Bash/Python d'administration système multi-distributions (RHEL/Debian
 
 ## 📅 Rythme d'alternance
 
-Calendrier prévisionnel de mon rythme entreprise/formation pour l'année 2026-2027 (560h de formation au total).
+Calendrier prévisionnel de mon rythme entreprise/formation pour l'année 2026-2027.
 
 <div align="center">
 
